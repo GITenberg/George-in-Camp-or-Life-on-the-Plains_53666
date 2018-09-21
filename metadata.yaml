@@ -1,0 +1,29 @@
+_repo: George-in-Camp-or-Life-on-the-Plains_53666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_issued: '2016-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- GITenberg
+title: George in Camp; or, Life on the Plains
+url: http://www.gutenberg.org/ebooks/53666
